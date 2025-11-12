@@ -1,0 +1,197 @@
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\bin\Debug\MorseToPoint.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\bin\Debug\MorseToPoint.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 23XI\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\bin\Debug\MorseToPoint.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\bin\Debug\MorseToPoint.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.5 waveforms 24XI\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\MorseToPoint.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\MorseToPoint.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\MorseToPoint.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\ZedGraph.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\MorseToPoint.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\MorseToPoint.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\bin\Debug\MorseToPoint.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.6 waveforms 6XII\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\bin\Debug\MorseToPoint.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\bin\Debug\MorseToPoint.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 31III\LevelToPgopher\obj\Debug\LevelToPgopher.SelectIsotopologue.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\bin\Debug\MorseToPoint.dll
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\bin\Debug\MorseToPoint.pdb
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher.SelectIsotopologue.resources
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 6.7 waveforms 29III2017\LevelToPgopher  ver 7 waveforms 5IV\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER\LevelToPgopher\obj\Debug\LevelToPgopher.SelectIsotopologue.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER\LevelToPgopher\bin\Debug\ZedGraph.dll
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.SelectIsotopologue.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher.SelectIsotopologue.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\level2pgopher_improved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher.SelectIsotopologue.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.config
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.EdycjaPotencjalu.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.GlowneOkno.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.Properties.Resources.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher.SelectIsotopologue.resources
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.exe
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 4.0.pdb
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\ZedGraph.dll
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.exe.manifest
+C:\Users\Tomek\Desktop\LEVEL2PGOPHERimproved\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 4.0.application
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\bin\Debug\ZedGraph.dll
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.CopyComplete
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojAssemblyReference.cache
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\ZedGraph.dll
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.CopyComplete
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe.config
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe.manifest
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.application
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.pdb
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.exe.manifest
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.application
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.exe
+C:\Users\Tomek\Desktop\LEVEL2PGOPHER7\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.pdb
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe.config
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe.manifest
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.application
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.pdb
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.exe.manifest
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.application
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.exe
+C:\Users\TOMEK\Desktop\LEVEL2PGOPHERimproved\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.pdb
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe.config
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe.manifest
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.application
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.exe
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\bin\Debug\LevelToPgopher 7.5.pdb
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csprojAssemblyReference.cache
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.exe.manifest
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.application
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\obj\Debug\LevelToPgopher 6.5.csproj.CopyComplete
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.exe
+C:\Users\tomek\Desktop\level2pgopher\LevelToPgopher\obj\Debug\LevelToPgopher 7.5.pdb
